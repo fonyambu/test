@@ -29,8 +29,4 @@ To clone this repository to your local machine, use the following command:
 ```bash
 git clone https://github.com/fonyambu/test.git
 
-## Future Plans
-
--Practice collaboration by inviting others to contribute to the repository.
--Explore advanced GitHub features like pull requests and issues.
-
+git add .
