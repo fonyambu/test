@@ -29,4 +29,3 @@ To clone this repository to your local machine, use the following command:
 ```bash
 git clone https://github.com/fonyambu/test.git
 
-git add .
